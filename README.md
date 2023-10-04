@@ -1,2 +1,2 @@
 # coursGit
-pour apprendre à utiliser Git
+pour apprendre à utiliser Git!
